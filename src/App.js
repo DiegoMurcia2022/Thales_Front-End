@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <Routes>
-        <Route path="/" element={<EmployeeSearch />} />
+        <Route path="/Thales_Front-End" element={<EmployeeSearch />} />
       </Routes>
     </div>
   );
